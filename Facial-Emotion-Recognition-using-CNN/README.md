@@ -29,9 +29,9 @@ _Feel free to download, clone , fork the project._
 
 ## DataSet:
 In this project I used kaggle dataset i.e  <br/>
-  https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/overview
+  https://www.kaggle.com/datasets/msambare/fer2013
   <br/>
-    we can use a kaggle API to access and download that dataset.
+    we can use a kaggle to access and download that dataset.
 
 ## Usage:
 This project is in notebook format. I wrote the program in google colabs.
